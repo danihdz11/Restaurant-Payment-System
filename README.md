@@ -16,7 +16,7 @@ A graphical user interface (GUI) application for a restaurant payment system bui
 ---
 
 ## Screenshots
-
+<img src="Img_my_restaurant/my_restaurant_1.png" alt="Start Screen of the Game" width="400"/>
 
 
 ---
